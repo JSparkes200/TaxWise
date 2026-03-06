@@ -1,2 +1,0 @@
-# TaxWise
-Tax wisely
